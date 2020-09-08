@@ -1,2 +1,3 @@
 # repozytoriumGITszkolenie
 # repozytoriumGITszkolenie
+# repozytoriumGITszkolenie
